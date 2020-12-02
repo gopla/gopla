@@ -1,9 +1,5 @@
 A half-weeb, learning on backEnd-dev, occasionally tired :wave:
-
-- 🌱 Currently learning TypeScript
-- :tea: Why you choose coffee over tea?
-- 👯 I’m looking to collaborate on your project ;)
-- 📫 How to reach [me](https://gopla.github.io/)
+more [on](https://gopla.github.io/)
 
 ![GithubStats](https://github-readme-stats.gopla.vercel.app/api?username=gopla&show_icons=true&theme=random)
 
