@@ -1,5 +1,5 @@
-A half-weeb, learning on backEnd-dev, occasionally tired :wave:
-more [on](https://gopla.github.io/)
+A half-weeb, learning on backEnd-dev, occasionally tired :wave:  
+📫 more [on](https://gopla.github.io/)  
 
 ![GithubStats](https://github-readme-stats.gopla.vercel.app/api?username=gopla&show_icons=true&theme=random)
 
